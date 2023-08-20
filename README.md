@@ -1,5 +1,7 @@
 # Tetris Game using OpenGL
 
+🕹️ Welcome to the Tetris Game using OpenGL Repository! 🎮
+
 Tetris, the iconic puzzle game born in 1984 from the brilliant mind of Russian game designer Alexey Pajitnov, has become a cornerstone of gaming history. This project pays homage to the classic while infusing it with a modern twist, bringing Tetris into the realm of OpenGL graphics. The result is an addictive and visually captivating gaming experience that bridges the gap between nostalgia and innovation.
 
 Dive into a world of timeless gaming nostalgia with our Tetris Game using the power of OpenGL. This project offers a fusion of classic gameplay and cutting-edge graphics, delivering an engaging and revitalized Tetris experience.
